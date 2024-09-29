@@ -19,3 +19,6 @@ Este projeto implementa um sistema de autenticação de usuários utilizando Fla
 2. Criar e ativar um ambiente virtual.
 3. Instalar as dependências com `pip install -r requirements.txt`.
 4. Executar a aplicação com `python app.py`.
+
+## Licença
+Este projeto está sob a licença MIT.
